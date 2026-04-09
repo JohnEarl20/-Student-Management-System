@@ -11,3 +11,7 @@
 
 **Proposed Solution**
 -The proposed system is a web-based Student Task Management module that allows teachers to create and assign tasks (assignments, quizzes, projects), and enables students to view, track, and update the status of their tasks (pending, ongoing, completed). The system will support full CRUD operations, task filtering, user roles, and secure login to ensure an organized and accessible academic workflow.
+
+**Stakeholders**
+-Students
+-Teachers / Faculty
